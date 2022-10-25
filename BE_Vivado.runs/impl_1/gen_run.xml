@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1666597218">
+  <File Type="BITSTR-BMM" Name="Antibounce_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="Antibounce_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="Antibounce_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="Antibounce_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="Antibounce.tcl"/>
+  <File Type="OPT-TIMING" Name="Antibounce_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="Antibounce_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="Antibounce_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="Antibounce_reports.tcl"/>
+  <File Type="OPT-DRC" Name="Antibounce_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="Antibounce.hwdef"/>
+  <File Type="PWROPT-DCP" Name="Antibounce_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="Antibounce_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="Antibounce_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="Antibounce_placed.dcp"/>
+  <File Type="PLACE-IO" Name="Antibounce_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="Antibounce_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="Antibounce_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="Antibounce_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="Antibounce_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="Antibounce_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="Antibounce_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="Antibounce_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="Antibounce_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="Antibounce.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="Antibounce_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="Antibounce_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="Antibounce_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="Antibounce.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="Antibounce_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="Antibounce_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="Antibounce_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="Antibounce_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="Antibounce_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="Antibounce_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="Antibounce_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="Antibounce.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="Antibounce_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="Antibounce_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="Antibounce_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="Antibounce_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="Antibounce_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="Antibounce_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="Antibounce_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="Antibounce_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="Antibounce_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="Antibounce_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="Antibounce_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="Antibounce_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="Antibounce_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="Antibounce_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="Antibounce_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="Antibounce_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="Antibounce_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="Antibounce_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="Antibounce_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="Antibounce_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="Antibounce_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="Antibounce.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="Antibounce_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="Antibounce.rbt"/>
+  <File Type="BITSTR-NKY" Name="Antibounce.nky"/>
+  <File Type="PDI-FILE" Name="Antibounce.pdi"/>
+  <File Type="RCFI_FILE" Name="Antibounce.rcfi"/>
+  <File Type="CFI_FILE" Name="Antibounce.cfi"/>
+  <File Type="RNPI_FILE" Name="Antibounce.rnpi"/>
+  <File Type="NPI_FILE" Name="Antibounce.npi"/>
+  <File Type="RBD_FILE" Name="Antibounce.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="Antibounce.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="Antibounce.sysdef"/>
+  <File Type="BG-BGN" Name="Antibounce.bgn"/>
+  <File Type="BG-DRC" Name="Antibounce.drc"/>
+  <File Type="RDI-RDI" Name="Antibounce.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/Counter.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/FSM.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Antibounce.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/AN_counter.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/AN_generator.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/BCD_decoder.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/clock_divider.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/data_controller.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/top_level.vhd">
+      <FileInfo>
+        <Attr Name="UserDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="Antibounce"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PPRDIR/digilent-xdc/Nexys-A7-100T-Master.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2020"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
